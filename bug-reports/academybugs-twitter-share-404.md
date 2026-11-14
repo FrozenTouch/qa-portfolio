@@ -2,7 +2,9 @@
 ___
 
 **Браузер:** Firefox 159.0.1
+
 **OC:** CachyOS 
+
 **Сайт:** https://academybugs.com/find-bugs/#
 
 
