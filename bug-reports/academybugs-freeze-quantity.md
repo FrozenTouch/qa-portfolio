@@ -1,8 +1,11 @@
 ### Окружение:
 ___
 
+
 **Браузер:** Firefox 159.0.1
-**OC:** CachyOS 
+
+**OC:** CachyOS
+
 **Сайт:** https://academybugs.com/find-bugs/#
 
 
