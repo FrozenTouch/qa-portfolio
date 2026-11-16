@@ -55,7 +55,7 @@ ___
 
 ### Доказательства
 
-- ![Скриншот](Non-functional "Share" button image_1.png)
+- <img width="1920" height="1079" alt="Non-functional  Share  button image_1" src="https://github.com/user-attachments/assets/2cecb352-26e0-4327-b94d-8de4c2fe7727" />
 
 ### Рекомендация по исправлению
 В HTML-коде кнопка реализована через тег `<button>`, который не имеет атрибута `href` для перехода и `onclick` для вызова JavaScript.
