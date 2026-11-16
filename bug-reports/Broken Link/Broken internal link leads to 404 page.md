@@ -1,3 +1,6 @@
+<img width="1920" height="1080" alt="Broken Link image_3" src="https://github.com/user-attachments/assets/636a96cf-a539-4891-93bc-8cc874dd030e" />
+<img width="1920" height="1079" alt="Broken Link image_2" src="https://github.com/user-attachments/assets/dbf8aee8-b978-4e90-911c-7fed19effcb8" />
+<img width="1920" height="1080" alt="Broken Link image_1" src="https://github.com/user-attachments/assets/bfaf17d9-a644-4358-92e2-15a9db51b045" />
 
 ### ID
 BUG-003
@@ -60,11 +63,11 @@ ___
 
 ### Доказательства
 
-- ![Скриншот](Broken Link image_1.png)
+- <img width="1920" height="1080" alt="Broken Link image_3" src="https://github.com/user-attachments/assets/636a96cf-a539-4891-93bc-8cc874dd030e" />
 
-- ![Скриншот](Broken Link image_2.png)
+- <img width="1920" height="1079" alt="Broken Link image_2" src="https://github.com/user-attachments/assets/dbf8aee8-b978-4e90-911c-7fed19effcb8" />
 
-- ![Скриншот](Broken Link image_3.png)
+- <img width="1920" height="1080" alt="Broken Link image_1" src="https://github.com/user-attachments/assets/bfaf17d9-a644-4358-92e2-15a9db51b045" />
 
 ### Рекомендация по исправлению
 Проверить значение `href` у анкор-ссылки. Один из вариантов:
