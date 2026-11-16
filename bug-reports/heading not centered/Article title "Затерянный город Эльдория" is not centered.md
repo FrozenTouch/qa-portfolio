@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="heading not сentered image_1" src="https://github.com/user-attachments/assets/ed15580b-b572-4212-aa1c-6e56deed9197" />
 ### ID
 BUG-004
 ___
@@ -54,7 +53,7 @@ ___
 
 ### Доказательства
 
-- ![Скриншот](heading not сentered image_1.png)
+- <img width="1920" height="1080" alt="heading not сentered image_1" src="https://github.com/user-attachments/assets/ed15580b-b572-4212-aa1c-6e56deed9197" />
 
 ### Рекомендация по исправлению
 
