@@ -59,9 +59,9 @@ ___
 
 ### Доказательства
 
--<img width="1920" height="1079" alt="Enumeration of users during login image1" src="https://github.com/user-attachments/assets/914d8b47-895d-4a0c-8cb5-1d1d5bbfc653" /> 
+- <img width="1920" height="1079" alt="Enumeration of users during login image1" src="https://github.com/user-attachments/assets/914d8b47-895d-4a0c-8cb5-1d1d5bbfc653" /> 
 
--<img width="1920" height="1080" alt="Enumeration of users during login image2" src="https://github.com/user-attachments/assets/1feded59-0f58-4da4-8ada-ef005b41801b" />
+- <img width="1920" height="1080" alt="Enumeration of users during login image2" src="https://github.com/user-attachments/assets/1feded59-0f58-4da4-8ada-ef005b41801b" />
 
 
 
