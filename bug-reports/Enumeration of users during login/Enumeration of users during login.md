@@ -3,7 +3,7 @@
 BUG-009
 ___
 ### Тип
-Функциональный дефект (Enumeration of users during login)
+Дефект безопасности (Security) / User Enumeration
 ___
 ### Статус
 Open
