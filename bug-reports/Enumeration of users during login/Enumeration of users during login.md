@@ -9,8 +9,7 @@ ___
 Open
 ___
 ### Серьёзность (Severity)
-High
-___
+Medium
 ### Приоритет (Priority)
 High
 ___
