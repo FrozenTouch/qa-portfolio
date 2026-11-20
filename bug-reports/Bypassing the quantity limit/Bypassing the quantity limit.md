@@ -12,7 +12,7 @@ ___
 Medium
 ___
 ### Приоритет (Priority)
-high
+High
 ___
 
 
